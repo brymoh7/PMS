@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <Navbar bg="light" variant="light">
         <Container>
-          <Navbar.Brand href="/">Personnel Manageemnt System<i class="fa-brands fa-free-code-camp"></i></Navbar.Brand>
+          <Navbar.Brand href="/">Personnel Management System<i class="fa-brands fa-free-code-camp"></i></Navbar.Brand>
         </Container>
       </Navbar>
       
